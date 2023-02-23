@@ -51,11 +51,3 @@ jina=input('Who am I?')
 
 print('welcome',jina)
 
-team=input('Favourite club?')
-
-print('Team kubwa',team)
-
-inp=input('Eurpean Floor?')
-usf=int(inp)+1
-
-print('US Floor',usf)
